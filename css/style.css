@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+.heading {
+	text-align:center;
+	padding: 20px 0;
+}
+.footer{
+       padding: 20px 0;
+	   color:#FFFFFF;
+	   background-color: #000000;
+	 
+}
+
+.copyright{
+	text-align: center;
+}
+.paddingtop{
+	padding-top: 10px;
+}
+.backcolor{
+	background-color: crimson;
+}
