@@ -30,7 +30,6 @@ Test on the website can be run by opening the index.html page in a browser. Crea
 * HTML
 * CSS
 * PHP
-* Javascript
 
 ### Author
 
